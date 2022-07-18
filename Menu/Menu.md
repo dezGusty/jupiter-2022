@@ -6,6 +6,7 @@
 2. [Fish and Chips](./Dishes/FishAndChips.md)
 3. [Risotto](./Dishes/Risotto.md)
 4. [Ramen](./Dishes/Ramen.md)
+5. [Burger](./Dishes/Burger.md)
 
 ## Drinks
 
