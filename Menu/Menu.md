@@ -5,6 +5,7 @@
 1. [Butter Chicken](./Dishes/Butter_Chicken.md)
 2. [Fish and Chips](./Dishes/FishAndChips.md)
 3. [Risotto](./Dishes/Risotto.md)
+4. [Ramen](./Dishes/Ramen.md)
 
 ## Drinks
 
