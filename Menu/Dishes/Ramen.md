@@ -19,4 +19,4 @@
 - Sriracha to taste
 - crunchy golden panko crumbs for topping
 
-![YOUR LINK](../../images/ramen.jpg)
+![YOUR LINK](../../Images/ramen.jpg)
