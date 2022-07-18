@@ -1,3 +1,3 @@
 # Dishes
 
-- [ButterChicken](Menu/Dishes/Butter Chicken.md)
+- [Butter Chicken](Menu/Dishes/Butter_Chicken.md)
