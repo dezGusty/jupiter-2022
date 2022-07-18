@@ -11,3 +11,4 @@
 
 1. [Cuba Libre](./Drinks/Cuba_Libre.md)
 3. [Pisco Punch](./Drinks/Pisco_Punch.md)
+5. [Frappe](./Drinks/Frappe.md)
