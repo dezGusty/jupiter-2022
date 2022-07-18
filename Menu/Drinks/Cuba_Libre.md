@@ -6,4 +6,4 @@
 - Lime
 - Rum
 
-![alt](images/Cuba_libre.jpg)
+![Cuba Libre](../../images/Cuba_Libre.jpg)
