@@ -1,5 +1,5 @@
 # Risotto
-**Indgredients:**
+**Ingredients:**
 - Rice
 - Butter
 - Mushrooms

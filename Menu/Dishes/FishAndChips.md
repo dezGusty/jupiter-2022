@@ -1,7 +1,7 @@
 # Fish and chips
-**Indgredients:**
+**Ingredients:**
 - Fish
 - Fries
 - Sauce
 
-![Fish_And_Chips](../../images/fish_and_chips_image.jpg)
+![Fish_And_Chips](../../Images/fish_and_chips_image.jpg)
