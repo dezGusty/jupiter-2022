@@ -21,4 +21,4 @@
 - Garnish: lime wedge
 - Garnish: celery stalk
 
-![YOUR LINK](../../images/bloody_mary.jpg)
+![YOUR LINK](../../Images/bloody_mary.jpg)
