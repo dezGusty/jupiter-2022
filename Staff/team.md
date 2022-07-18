@@ -1,3 +1,4 @@
 # Our team
 
-- [Main Chef](./Chefs/Scarlatescu_Ramsay.md)
+- [Head chef](./Chefs/Scarlatescu_Ramsay.md)
+- [Sous-chef](./Chefs/)
