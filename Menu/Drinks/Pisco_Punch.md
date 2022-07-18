@@ -8,4 +8,4 @@
 - Orange
 
 
-![Image](../../images/Pisco_Punch.jpg)
+![Image](../../Images/Pisco_Punch.jpg)
