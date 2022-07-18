@@ -1,0 +1,1 @@
+Nu lasa pe azi ce poti face maine
