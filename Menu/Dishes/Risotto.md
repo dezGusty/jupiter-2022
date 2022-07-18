@@ -5,4 +5,4 @@
 - Mushrooms
 - Wine
 
-![Risotto](../../Images/risotto_image.jpg)
+![Risotto](../../images/risotto_image.jpg)
