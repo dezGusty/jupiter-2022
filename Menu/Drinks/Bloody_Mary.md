@@ -21,4 +21,4 @@
 - Garnish: lime wedge
 - Garnish: celery stalk
 
-[Bloody Mary](https://www.tulkoff.com/wp-content/uploads/1970/01/bloodymary.jpg)
+[Bloody Mary](../../images/bloody_mary.jpg)

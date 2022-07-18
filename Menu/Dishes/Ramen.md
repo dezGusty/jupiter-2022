@@ -18,3 +18,5 @@
 - 1 cups shredded carrots
 - Sriracha to taste
 - crunchy golden panko crumbs for topping
+
+[Ramen](../../Images/ramen.jpg)
