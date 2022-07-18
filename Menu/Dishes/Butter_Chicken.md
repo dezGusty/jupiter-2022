@@ -6,3 +6,5 @@
 - Paprika
 - Chicken
 - Garlic
+
+![Image](../../images/Butter_Chicken.jpg)
