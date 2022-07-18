@@ -1,5 +1,5 @@
 # Fish and chips
-**Indgredients:**
+**Ingredients:**
 - Fish
 - Fries
 - Sauce
