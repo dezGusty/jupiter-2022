@@ -8,4 +8,5 @@
 
 # Drinks
 
+1. [Cuba Libre](./Drinks/Cuba_Libre.md)
 3. [Pisco Punch](Menu/Drinks/Pisco_Punch.md)
