@@ -6,4 +6,4 @@
 - Lime
 - Rum
 
-![Cuba Libre](../../images/Cuba_Libre.jpg)
+![Cuba Libre](../../Images/Cuba_Libre.jpg)
