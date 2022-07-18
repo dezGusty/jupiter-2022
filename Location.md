@@ -5,6 +5,6 @@ Location:
 - [View on Google Maps](https://goo.gl/maps/mmzoNfi7vP793THv9)
 
 <p align="center">
-  <img src="./images/terasa_antik">
+  <img src="./images/terasa_antik.jpg">
 </p>
 
