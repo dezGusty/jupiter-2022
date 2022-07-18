@@ -4,5 +4,7 @@ Location:
 
 - [View on Google Maps](https://goo.gl/maps/mmzoNfi7vP793THv9)
 
-- ![Terasa Antik Jupiter](https://lh5.googleusercontent.com/p/AF1QipPacbjBAVPJdj2cUP7ywczmctYw97tZa5LL9Utf=w408-h544-k-no)
+<p align="center">
+  <img width="460" height="300" src="https://lh5.googleusercontent.com/p/AF1QipPacbjBAVPJdj2cUP7ywczmctYw97tZa5LL9Utf=w408-h544-k-no">
+</p>
 
