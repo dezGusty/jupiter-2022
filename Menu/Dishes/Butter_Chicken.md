@@ -7,4 +7,4 @@
 - Chicken
 - Garlic
 
-![Image](../../images/Butter_Chicken.jpg)
+![Image](../../Images/Butter_Chicken.jpg)
